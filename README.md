@@ -123,6 +123,8 @@ If you're using this repo in your research or applications, please cite using th
 
 ## References:
 
+[Evaluating State-of-the-Art Classification Models Against Bayes Optimality](https://arxiv.org/abs/2106.03357), by Ryan Theisen, Huan Wang, Lav R Varshney, Caiming Xiong, and Richard Socher. NeurIPS, 2021.
+
 The Glow training on pytorch is based on [Glow in Pytorch](https://github.com/chrischute/glow) 
 
 The compute Bayes Error procedure is based on [LinConGauss](https://github.com/alpiges/LinConGauss). 
